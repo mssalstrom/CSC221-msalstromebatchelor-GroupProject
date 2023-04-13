@@ -8,4 +8,4 @@ _Project Description:_ Web Scrapping project to gather data from the Median inco
                         
 _Webscraped URL:_ Median Income [ URL: https://en.wikipedia.org/wiki/Median_income ]
 
-_Collaborator:_ Edward Batchelor 
+_Collaborator:_ Edward Batchelor ebbatchelor@my.waketech.edu (Accepted)
